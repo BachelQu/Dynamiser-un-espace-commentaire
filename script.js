@@ -1,4 +1,4 @@
-<script>
+
     document.addEventListener('DOMContentLoaded', function() {
         // Ajout d'un gestionnaire d'événements au formulaire
         document.querySelector('form').addEventListener('submit', function(event) {
@@ -41,4 +41,4 @@
             document.getElementById('message').value = '';
         });
     });
-</script>
+
